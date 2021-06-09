@@ -14,8 +14,8 @@ function preload() {
   spaceImage = loadImage("images/space.png");
   spaceShipImage = loadImage("images/spaceship.png");
   laserImage = loadImage("images/laser.png");
-  asteroid1 = loadImage("images/as1.png");
-  asteroid2 = loadImage("images/as2.png");
+  asteroid1 = loadImage("images/as1.jpg");
+  asteroid2 = loadImage("images/as2.jpg");
   asteroid3 = loadImage("images/as3.png");
   blastImage = loadImage("images/explosion.png");
   explasionImage = loadImage("images/explosion.png");
