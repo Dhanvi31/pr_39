@@ -12,7 +12,7 @@ var gameState = instruction;
 var endline,canvas;
 function preload() {
   spaceImage = loadImage("images/space.png");
-  spaceShipImage = loadImage("spaceship.png");
+  spaceShipImage = loadImage("images/spaceship.png");
   laserImage = loadImage("images/laser.png");
   asteroid1 = loadImage("images/as1.png");
   asteroid2 = loadImage("images/as2.png");
